@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cuenta Bar</string>
+    <string name="hint_camarero">Nombre del camarero</string>
+    <string name="hint_total">Total de la cuenta (€)</string>
+    <string name="check_propina">Incluir propina</string>
+    <string name="text_propina">Porcentaje de propina: 10%</string>
+    <string name="radio_efectivo">Efectivo</string>
+    <string name="radio_tarjeta">Tarjeta</string>
+    <string name="btn_calcular">Calcular Total</string>
+    <string name="text_resultado">El resultado aparecerá aquí</string>
+    <string name="error_vacio">Falta meter el valor de la cuenta</string>
+    <string name="error_negativo">El valor de la cuenta debe ser mayor que 0</string>
+    <string name="error_formato">Formato numérico no válido</string>
+</resources>
